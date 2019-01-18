@@ -13,11 +13,11 @@
         <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
-        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="PASSED" />
         <entry key="EditorBasics.CommentLine" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="PASSED" />
-        <entry key="EditorBasics.Move" value="NOT_PASSED" />
+        <entry key="EditorBasics.Move" value="PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
@@ -58,6 +58,14 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="EditorBasics.Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="22135" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
@@ -85,8 +93,16 @@
         <entry key="EditorBasics.Move">
           <value>
             <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="6637642" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.MultipleSelections">
+          <value>
+            <StatisticData>
               <option name="state" value="STARTED" />
-              <option name="timestamp" value="1547783168304" />
+              <option name="timestamp" value="1547789891178" />
             </StatisticData>
           </value>
         </entry>
