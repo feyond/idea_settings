@@ -9,16 +9,16 @@
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
-        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
-        <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
-        <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
-        <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
+        <entry key="Completions.BasicCompletion" value="PASSED" />
+        <entry key="Completions.CompletionwithTab" value="PASSED" />
+        <entry key="Completions.SmartTypeCompletion" value="PASSED" />
+        <entry key="Completions.StatementCompletion" value="PASSED" />
         <entry key="EditorBasics.Collapse" value="PASSED" />
         <entry key="EditorBasics.CommentLine" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="PASSED" />
         <entry key="EditorBasics.Move" value="PASSED" />
-        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
+        <entry key="EditorBasics.MultipleSelections" value="PASSED" />
         <entry key="EditorBasics.Selection" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
@@ -58,6 +58,38 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="1269500" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.CompletionwithTab">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="18090" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.SmartTypeCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="52487" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.StatementCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="53185" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.Collapse">
           <value>
             <StatisticData>
@@ -101,8 +133,8 @@
         <entry key="EditorBasics.MultipleSelections">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1547789891178" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="4766214" />
             </StatisticData>
           </value>
         </entry>
