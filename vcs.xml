@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/monkeyk/oauth2-shiro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Smith-Cruise/Spring-Boot-Shiro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="X:\workspace" />
