@@ -1,7 +1,5 @@
 <application>
   <component name="TaskStorage">
-    <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1550214750827" actual="0" highlighted="false" highlightingtype="Red" title="gradle qdsl 生成代码" description="apply plugin: &amp;quot;idea&amp;quot; sourceSets.main.java.srcDir new File(buildDir, &amp;#39;generate/querydsl/java&amp;#39;) idea {     module {         // Marks the already(!) added srcDir as &amp;quot;generated&amp;quot;         generatedSourceDirs += file(&amp;#39;build/generate/querydsl/java&amp;#39;)     } }" />
-    </tasks>
+    <tasks />
   </component>
 </application>
