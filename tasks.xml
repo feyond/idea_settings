@@ -2,6 +2,8 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Normal" completed="false" estimated="0" created="1550392369087" actual="0" highlighted="false" highlightingtype="Red" title="ImportBeanDefinitionRegistrar" description="ClassPathBeanDefinitionScanner&#13;&#10;inject&#13;&#10;https://zhuanlan.zhihu.com/p/30123517" />
+      <task priority="Normal" completed="false" estimated="0" created="1550581617168" actual="0" highlighted="false" highlightingtype="Red" title="Spring Cache &amp; Redis" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1550581624072" actual="0" highlighted="false" highlightingtype="Red" title="Spring log" description="" />
     </tasks>
   </component>
 </application>
