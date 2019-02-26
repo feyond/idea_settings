@@ -5,6 +5,10 @@
       <task priority="Normal" completed="false" estimated="0" created="1550581617168" actual="0" highlighted="false" highlightingtype="Red" title="Spring Cache &amp; Redis" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1550584814800" actual="0" highlighted="false" highlightingtype="Red" title="Spring Method Secured" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1551010087674" actual="0" highlighted="false" highlightingtype="Red" title="Spring Oauth UnitTest" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1551152423370" actual="0" highlighted="false" highlightingtype="Red" title="Webjars" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1551152436165" actual="0" highlighted="false" highlightingtype="Red" title="bootstrap" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1551152491311" actual="0" highlighted="false" highlightingtype="Red" title="vue" description="" />
+      </task>
     </tasks>
   </component>
 </application>
