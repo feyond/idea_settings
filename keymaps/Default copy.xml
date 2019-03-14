@@ -9,9 +9,14 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Gsonformat" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="ShiftDownAction" />
+  <action id="ShiftDownMoreAction" />
+  <action id="ShiftUpAction" />
+  <action id="ShiftUpMoreAction" />
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
